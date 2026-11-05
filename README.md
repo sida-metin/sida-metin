@@ -1,99 +1,84 @@
+
 <div align="center">
 
-# Hi, I'm Sida 👋
+# 🎀 Hi, I'm Sida! ♡
 
-### SOC Analyst | Blue Team | International Computer Engineering Student
+୨୧ ────── ⋆ ˚｡⋆୨♡୧⋆ ˚｡⋆ ────── ୨୧
 
-Building practical skills in cybersecurity, Linux systems and computer networks.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=F472B6&center=true&vCenter=true&width=650&height=55&lines=Aspiring+Security+Engineer+%E2%99%A1;Cybersecurity+%7C+Linux+%7C+Blue+Team;Learning+SOC+and+DevSecOps;Welcome+to+my+little+corner+of+GitHub!" alt="Typing animation"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sidametin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidametin/)
-[![Email](https://img.shields.io/badge/Email-sidametin%40gmail.com-147D80?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidametin@gmail.com)
+♡ securing systems, one step at a time ♡
 
 </div>
 
 ---
 
-## About me
+### 🎀 About me
 
-I'm a final-year International Computer Engineering student at La Salle - Universitat Ramon Llull, focused on blue team security and working toward an entry-level SOC Analyst role.
+- 🌸 Interested in cybersecurity and security engineering
+- 🐧 Exploring Linux, system administration and security
+- 💗 Learning about SOC, Blue Team and DevSecOps
+- 🧸 Enjoy building and understanding how systems work
+- ✨ Always learning something new!
 
-- 🔐 Developing cybersecurity fundamentals through hands-on TryHackMe labs
-- 🔎 Inspecting TCP and UDP traffic with Wireshark
-- 🐧 Supporting Linux administration labs as a Teaching Assistant Intern
-- 🌐 Supporting networking labs and developing an SD-WAN lab concept
-- 🧪 Selected to contribute to cybersecurity research in the EU-funded BTL-COP project from February 2027
-- 🐍 Building Python skills for scripting, automation and security tooling
+### ୨୧ Tech stack
 
----
+**Languages**
 
-## Current focus
+![Python](https://img.shields.io/badge/Python-F9A8D4?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F472B6?style=flat-square)
+![C](https://img.shields.io/badge/C-DB2777?style=flat-square&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-FBCFE8?style=flat-square&logo=gnubash&logoColor=black)
 
-| Area | What I'm working on |
-|---|---|
-| 🛡️ Blue team security | Security monitoring and incident response fundamentals |
-| 🌐 Network analysis | TCP/IP, TCP and UDP traffic inspection with Wireshark |
-| 🐧 Linux systems | Bash scripting, permissions, users, services and Linux From Scratch |
-| ⚙️ Automation | Python scripting for repeatable security and system tasks |
+**Tools & interests**
 
----
-
-## Technical toolkit
-
-### Cybersecurity, systems and networking
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-147D80?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-2A6DB0?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Programming and development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-F472B6?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-DB2777?style=flat-square&logo=git&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-F9A8D4?style=flat-square)
+![Blue Team](https://img.shields.io/badge/Blue_Team-FBCFE8?style=flat-square)
 
 ---
 
-## Selected projects
+### 💌 Selected projects
 
-### [SmartWallet Blockchain](https://github.com/sida-metin/SmartWallet-Blockchain)
+**[SmartWallet Blockchain](https://github.com/sida-metin/SmartWallet-Blockchain)**
 
-Blockchain application work involving smart contracts and decentralized application development.
+Smart contracts and decentralized application development.
 
-### [Pokedex LS](https://github.com/sida-metin/Pokedex-LS)
+**[Pokedex LS](https://github.com/sida-metin/Pokedex-LS)**
 
-Java project developed as part of my academic programming work.
+Java project developed as part of academic programming work.
 
-### Embedded systems and microprocessor projects
+**Embedded systems and microprocessor projects**
 
-C-based academic projects involving components such as EEPROM, LCD, joystick, LDR, heartbeat and Hall sensors, keypad and LEDs.
+C-based projects involving EEPROM, LCD, sensors, keypads and LEDs.
 
 ---
 
-## Contribution activity
+### 🌷 Contribution activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sida-metin/sida-metin/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sida-metin/sida-metin/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/sida-metin/sida-metin/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sida-metin/sida-metin/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/sida-metin/sida-metin/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
 ---
 
-## Let's connect
+### 💗 Let's connect
 
-I'm interested in connecting with SOC analysts, blue team professionals and people working in cybersecurity operations.
+I'm always happy to connect with people interested in cybersecurity, Linux and security engineering!
 
-📩 **Email:** [sidametin@gmail.com](mailto:sidametin@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/sidametin](https://www.linkedin.com/in/sidametin/)
+[![Email](https://img.shields.io/badge/Email-F472B6?style=flat-square&logo=gmail&logoColor=white)](mailto:sidametin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DB2777?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidametin)
+
+<div align="center">
+
+୨୧ ─────── 🎀 ─────── ୨୧
+
+*Thanks for visiting my little corner of GitHub! ♡*
+
+</div>
