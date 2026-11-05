@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=F4A6C1&center=true&vCenter=true&width=650&height=55&repeat=true&lines=Cybersecurity+%7C+Linux+%7C+Blue+Team" alt="Cybersecurity | Linux | Blue Team"/>
 
-Final-year International Computer Engineering Student  
+International Computer Engineering Student  
 La Salle – Universitat Ramon Llull | Barcelona, Spain
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D48AAA?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidametin)
@@ -54,7 +54,7 @@ Currently working as a Teaching Assistant in Linux Systems Administration and Ne
 
 ---
 
-## Professional Experience
+## Experience
 
 **Teaching Assistant — Systems Administration & Design**  
 La Salle – Universitat Ramon Llull | Sep 2026 – Present
@@ -75,22 +75,6 @@ La Salle – Universitat Ramon Llull | Sep 2026 – Present
 
 - Contributed to Python and JavaScript projects.
 - Assisted with debugging, code reviews and team collaboration.
-
----
-
-## Selected Projects
-
-### SmartWallet Blockchain
-Smart contract and decentralized application development.
-
-### Pokedex LS
-Java-based academic programming project.
-
-### Academic Software Projects
-Library automation and management applications developed using Java and C#.
-
-### Embedded Systems & Microprocessors
-Projects involving C, Assembly, hardware sensors and low-level programming.
 
 ---
 
