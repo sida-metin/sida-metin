@@ -66,7 +66,7 @@ C-based projects involving EEPROM, LCD, sensors, keypads and LEDs.
   <img alt="Mochi, my GitHub cat" src="https://raw.githubusercontent.com/sida-metin/sida-metin/main/dist/pet.svg" width="100%">
 </picture>
 
-♡ meet Mochi, my little GitHub companion ♡
+♡ meet Kinder ♡
 
 </div>
 
