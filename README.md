@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sida Metin 👋
+# Hi, I'm Sida 👋
 
 ### SOC Analyst | Blue Team | International Computer Engineering Student
 
