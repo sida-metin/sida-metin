@@ -55,16 +55,21 @@ C-based projects involving EEPROM, LCD, sensors, keypads and LEDs.
 
 ---
 
-### 🌷 Contribution activity
+
+### 🌷 My little coding companion
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sida-metin/sida-metin/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/sida-metin/sida-metin/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sida-metin/sida-metin/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sida-metin/sida-metin/main/dist/pet-light.svg">
+  <img alt="Mochi, my GitHub cat" src="https://raw.githubusercontent.com/sida-metin/sida-metin/main/dist/pet.svg" width="100%">
 </picture>
 
+♡ meet Mochi, my little GitHub companion ♡
+
 </div>
+
 
 ---
 
