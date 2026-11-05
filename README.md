@@ -5,7 +5,9 @@
 
 ୨୧ ────── ⋆ ˚｡⋆୨♡୧⋆ ˚｡⋆ ────── ୨୧
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=F472B6&center=true&vCenter=true&width=650&height=55&lines=Security+Engineer+%E2%99%A1;Cybersecurity+%7C+Linux+%7C+Blue+Team;Learning+SOC+and+DevSecOps;Welcome+to+my+little+corner+of+GitHub!" alt="Typing animation"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=650&height=55&repeat=true&lines=Cybersecurity+%7C+Linux+%7C+Blue+Team" alt="Cybersecurity | Linux | Blue Team"/>
+
 
 ♡ ♡
 
