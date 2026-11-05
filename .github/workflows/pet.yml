@@ -1,0 +1,25 @@
+
+name: My YourTomo cat
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: prsdx/github-pet@v1
+        with:
+          username: sida-metin
+          timezone-offset-minutes: "60"
+          accent-color: "#F472B6"
+          pet-name: "Mochi"
+          display-name: "Sida"
+          contact-line: "cybersecurity - linux - blue team"
