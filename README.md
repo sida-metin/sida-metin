@@ -6,7 +6,7 @@
 
 ୨୧ ────── ⋆ ˚｡⋆୨♡୧⋆ ˚｡⋆ ────── ୨୧
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=F4A6C1&center=true&vCenter=true&width=650&height=55&repeat=true&lines=Offensive+Security+%7C+Penetration+Testing;Red+Team+%7C+Ethical+Hacking" alt="Offensive Security | Penetration Testing | Red Team"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=F4A6C1&center=true&vCenter=true&width=650&height=55&repeat=true&lines=Offensive+Security+%7C+Penetration+Testing" alt="Offensive Security | Penetration Testing"/>
 
 International Computer Engineering Student  
 
