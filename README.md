@@ -1,15 +1,19 @@
 
+
 <div align="center">
 
 # Sida Metin
+
 ୨୧ ────── ⋆ ˚｡⋆୨♡୧⋆ ˚｡⋆ ────── ୨୧
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=F4A6C1&center=true&vCenter=true&width=650&height=55&repeat=true&lines=Cybersecurity+%7C+Linux+%7C+Blue+Team" alt="Cybersecurity | Linux | Blue Team"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=F4A6C1&center=true&vCenter=true&width=650&height=55&repeat=true&lines=Offensive+Security+%7C+Penetration+Testing;Red+Team+%7C+Ethical+Hacking" alt="Offensive Security | Penetration Testing | Red Team"/>
 
 International Computer Engineering Student  
+
 La Salle – Universitat Ramon Llull | Barcelona, Spain
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D48AAA?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidametin)
+
 [![Email](https://img.shields.io/badge/Email-D48AAA?style=flat-square&logo=gmail&logoColor=white)](mailto:sidametin@gmail.com)
 
 </div>
@@ -18,63 +22,125 @@ La Salle – Universitat Ramon Llull | Barcelona, Spain
 
 ## About Me
 
-I'm a final-year International Computer Engineering student at La Salle, Barcelona, with an interest in cybersecurity, particularly SOC operations and defensive security.
+I'm a final-year International Computer Engineering student at La Salle, Barcelona, with a strong interest in offensive security, penetration testing and ethical hacking.
 
-Currently working as a Teaching Assistant in Linux Systems Administration and Networking, while developing my cybersecurity skills through hands-on labs and practical learning.
+Currently working as a Teaching Assistant in Linux Systems Administration and Networking, while developing my offensive security skills through hands-on labs and practical cybersecurity challenges.
 
-- **Career Focus:** SOC Analyst | Blue Team
-- **Currently Learning:** Security monitoring, network analysis and defensive security
-- **Hands-on Practice:** TryHackMe, Linux and networking labs
-- **Interests:** Security engineering, system administration and network security
+My background in Linux, networking and software development provides a strong technical foundation for understanding systems, identifying vulnerabilities and exploring attack techniques in authorized environments.
+
+- **Career Focus:** Penetration Tester | Red Team
+
+- **Currently Learning:** Web application security, vulnerability assessment, enumeration and privilege escalation
+
+- **Hands-on Practice:** TryHackMe, Linux and cybersecurity labs
+
+- **Interests:** Offensive security, ethical hacking, network penetration testing and security research
 
 ---
 
 ## Technical Skills
 
-**Security & Network Analysis**
+**Offensive Security & Penetration Testing**
 
-![Wireshark](https://img.shields.io/badge/Wireshark-F4A6C1?style=flat-square&logo=wireshark&logoColor=black)
-![Nmap](https://img.shields.io/badge/Nmap-E5A3B9?style=flat-square&logoColor=black)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-D48AAA?style=flat-square&logo=burpsuite&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-E9B8CB?style=flat-square&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-F4A6C1?style=flat-square&logoColor=black)
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-E5A3B9?style=flat-square&logo=burpsuite&logoColor=black)
+
+![Gobuster](https://img.shields.io/badge/Gobuster-D48AAA?style=flat-square&logoColor=white)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-E9B8CB?style=flat-square&logo=wireshark&logoColor=black)
 
 **Systems & Networking**
 
 ![Linux](https://img.shields.io/badge/Linux-F4A6C1?style=flat-square&logo=linux&logoColor=black)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-E5A3B9?style=flat-square&logoColor=black)
-![Git](https://img.shields.io/badge/Git-D48AAA?style=flat-square&logo=git&logoColor=white)
 
-**Programming Languages**
+![Bash](https://img.shields.io/badge/Bash-E5A3B9?style=flat-square&logo=gnubash&logoColor=black)
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-D48AAA?style=flat-square&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-E9B8CB?style=flat-square&logo=git&logoColor=black)
+
+**Programming & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-F4A6C1?style=flat-square&logo=python&logoColor=black)
+
 ![Java](https://img.shields.io/badge/Java-E5A3B9?style=flat-square&logoColor=black)
+
 ![C](https://img.shields.io/badge/C-D48AAA?style=flat-square&logo=c&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-E9B8CB?style=flat-square&logo=javascript&logoColor=black)
+
 ![SQL](https://img.shields.io/badge/SQL-F4A6C1?style=flat-square&logoColor=black)
+
+---
+
+## Offensive Security Learning Path
+
+- Reconnaissance & Enumeration
+
+- Vulnerability Assessment
+
+- Web Application Penetration Testing
+
+- OWASP Top 10
+
+- Linux Privilege Escalation
+
+- Windows Privilege Escalation
+
+- Network Penetration Testing
+
+- Active Directory Security
+
+- Exploitation Techniques
+
+- Penetration Testing Methodologies & Reporting
+
+---
+
+## Cybersecurity Practice
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-F4A6C1?style=flat-square&logo=tryhackme&logoColor=black)
+
+Developing practical offensive security skills through hands-on cybersecurity labs, vulnerability analysis and controlled exploitation exercises.
+
+All security testing is conducted in authorized and controlled environments.
 
 ---
 
 ## Experience
 
 **Teaching Assistant — Systems Administration & Design**  
+
 La Salle – Universitat Ramon Llull | Sep 2026 – Present
 
-- Support Linux administration and Bash scripting labs.
-- Assist students with Linux From Scratch projects.
-- Conduct practical assessments and troubleshooting sessions.
+- Support Linux systems administration and Bash scripting labs.
+
+- Assist students with Linux From Scratch projects, system configuration and troubleshooting.
+
+- Conduct practical assessments involving Linux services, permissions, processes and system management.
 
 **Teaching Assistant — Interconnection of Data Networks**  
+
 La Salle – Universitat Ramon Llull | Sep 2026 – Present
 
-- Support networking laboratory sessions.
-- Contribute to SD-WAN laboratory planning.
-- Assist with technical exercises and assessments.
+- Support networking laboratory sessions and network troubleshooting.
+
+- Contribute to Cisco SD-WAN laboratory planning and development.
+
+- Assist with practical exercises involving VPNs, network protocols and connectivity.
+
+- Support technical assessments and network configuration validation.
 
 **Software Developer Intern — Haxr Group**  
+
 2022 – 2023
 
 - Contributed to Python and JavaScript projects.
+
 - Assisted with debugging, code reviews and team collaboration.
+
+- Developed a software engineering foundation relevant to application security.
 
 ---
 
@@ -83,9 +149,13 @@ La Salle – Universitat Ramon Llull | Sep 2026 – Present
 <div align="center">
 
 <picture>
+
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sida-metin/sida-metin/main/dist/pet.svg">
+
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sida-metin/sida-metin/main/dist/pet-light.svg">
+
   <img alt="GitHub activity companion" src="https://raw.githubusercontent.com/sida-metin/sida-metin/main/dist/pet.svg" width="100%">
+
 </picture>
 
 </div>
@@ -94,6 +164,8 @@ La Salle – Universitat Ramon Llull | Sep 2026 – Present
 
 <div align="center">
 
-*Continuously learning, building and improving.*
+*Think like an attacker. Build a more secure world.*
+
+୨୧
 
 </div>
