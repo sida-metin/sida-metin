@@ -74,40 +74,6 @@ My background in Linux, networking and software development provides a strong te
 
 ---
 
-## Offensive Security Learning Path
-
-- Reconnaissance & Enumeration
-
-- Vulnerability Assessment
-
-- Web Application Penetration Testing
-
-- OWASP Top 10
-
-- Linux Privilege Escalation
-
-- Windows Privilege Escalation
-
-- Network Penetration Testing
-
-- Active Directory Security
-
-- Exploitation Techniques
-
-- Penetration Testing Methodologies & Reporting
-
----
-
-## Cybersecurity Practice
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-F4A6C1?style=flat-square&logo=tryhackme&logoColor=black)
-
-Developing practical offensive security skills through hands-on cybersecurity labs, vulnerability analysis and controlled exploitation exercises.
-
-All security testing is conducted in authorized and controlled environments.
-
----
-
 ## Experience
 
 **Teaching Assistant — Systems Administration & Design**  
