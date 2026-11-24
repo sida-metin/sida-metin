@@ -28,14 +28,6 @@ Currently working as a Teaching Assistant in Linux Systems Administration and Ne
 
 My background in Linux, networking and software development provides a strong technical foundation for understanding systems, identifying vulnerabilities and exploring attack techniques in authorized environments.
 
-- **Career Focus:** Penetration Tester | Red Team
-
-- **Currently Learning:** Web application security, vulnerability assessment, enumeration and privilege escalation
-
-- **Hands-on Practice:** TryHackMe, Linux and cybersecurity labs
-
-- **Interests:** Offensive security, ethical hacking, network penetration testing and security research
-
 ---
 
 ## Technical Skills
